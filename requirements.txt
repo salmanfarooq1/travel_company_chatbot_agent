@@ -3,9 +3,9 @@ streamlit-chat==0.1.1
 transformers==4.37.2
 torch==2.2.0
 numpy==1.26.3
-google.generativeai==0.3.2
-google-generativeai
-google-genai
+google-generativeai==0.8.2
+
+
 chromadb==0.4.22
 python-dotenv==1.0.1
 typing-extensions>=4.5.0
